@@ -1,6 +1,6 @@
 # 👋 Ahoj, jsem Tomáš Martinec
 
-Jsem kreativní vývojář se zaměřením na moderní webové technologie. Mým cílem je vytvářet intuitivní a efektivní webové aplikace.
+Jsem zkušený webový vývojář zaměřený na moderní technologie. Pomáhám firmám vytvářet intuitivní a výkonné webové aplikace, které zaujmou a fungují.
 
 ## 🚀 Technologie a nástroje
 
