@@ -25,10 +25,6 @@ Jsem zkušený webový vývojář zaměřený na moderní technologie. Pomáhám
 ### [Piškvorky (Tic-tac-toe)](https://github.com/flexissbro/Tic-Tac-Toe)
 Implementace klasické hry Piškvorky s možností online hraní. Vytvořeno pomocí HTML, CSS a JavaScriptu.
 
-## 📈 GitHub Statistiky
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=flexissbro&show_icons=true&theme=tokyonight)
-
 ## 📫 Kontakt
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/flexissbro)
